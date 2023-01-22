@@ -14,10 +14,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <MainLayout>
-        <Center>
-          <Text mt='12%'>CONTENT HERE</Text>
-        </Center>
+      <MainLayout>        
+          <Text mt='12%'>CONTENT HERE</Text>        
       </MainLayout>
     </>
   )
